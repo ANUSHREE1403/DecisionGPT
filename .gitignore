@@ -1,0 +1,30 @@
+# Python
+backend/.venv/
+**/__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+
+# Node
+frontend/insight-navigator/node_modules/
+frontend/insight-navigator/dist/
+deprecated/
+
+# Env & secrets
+.env
+backend/.env
+*.pem
+
+# Data & indexes (optional: uncomment if you don't want large files in git)
+# data/
+# backend/data/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Extracted archives (local only)
+backend/_extracted_backend14/

@@ -1,0 +1,2 @@
+2026-03-20 19:43:05.979 | INFO     | app.core.logging:setup_logging:37 | Logging initialised | env=development | level=DEBUG
+2026-03-20 19:43:05.979 | INFO     | app.main:lifespan:35 | DecisionGPT starting | env=development
